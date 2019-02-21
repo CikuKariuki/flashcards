@@ -1,0 +1,22 @@
+.answer{
+  display: none;
+}
+body{
+  cursor: crosshair;
+}
+.question{
+  color: #00897b;
+}
+.answer{
+  color:#000;
+}
+.quote{
+  float: right;
+  font-size: 13px;
+  font-family: monospace;
+  color: #00897b;
+}
+#color{
+  background-color: #455a64;
+  color: white;
+}
