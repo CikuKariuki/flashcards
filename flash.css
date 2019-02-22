@@ -2,10 +2,11 @@
   display: none;
 }
 body{
-  cursor: crosshair;
+cursor: default;
 }
 .question{
   color: #00897b;
+  cursor: crosshair;
 }
 .answer{
   color:#000;
